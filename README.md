@@ -126,7 +126,7 @@ Models were evaluated using:
 - Validation Accuracy
 - Decision Tree structure interpretation
 
-The hybrid model incorporating text-derived semantic features demonstrated improved predictive capability compared to structured-only modeling.
+The hybrid model incorporating text-derived semantic features demonstrated worse predictive capability compared to structured-only modeling.
 
 ---
 
